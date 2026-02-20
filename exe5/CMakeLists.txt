@@ -33,3 +33,4 @@ target_link_libraries(exe5 pico_stdlib)
 target_link_libraries(exe5 hardware_clocks)
 
 pico_add_extra_outputs(exe5)
+
